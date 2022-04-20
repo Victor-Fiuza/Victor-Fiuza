@@ -10,7 +10,7 @@
 </div>
 
 ## Contato
-<a href = "www.linkedin.com/in/victor-fiuza-182383173">
+<a href = "https://www.linkedin.com/in/victor-fiuza-182383173">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 </a>
 
